@@ -1,0 +1,12 @@
+name: FancraftArena
+version: 2.0
+main: fr.fancraft.arena.FancraftArena
+author: lasalade_
+description: Plugin d'arene PvP avec classement
+commands:
+  classement:
+    description: Affiche le classement des joueurs
+    usage: /classement
+  kit:
+    description: Ouvre le menu de selection de kit
+    usage: /kit
