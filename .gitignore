@@ -1,6 +1,8 @@
-target/
+target/maven-status/
+target/maven-archiver/
+target/classes/
+target/original-*.jar
 dependency-reduced-pom.xml
 *.class
-*.jar
 .idea/
 *.iml
